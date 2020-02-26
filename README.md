@@ -1,6 +1,5 @@
 # Novemax Framework
-Novemax Framework
-Novemax Frameworks é um software de fonte aberta desenvolvido pela Novemax Soluções em TI que ajuda os desenvolvedores a construirem aplicações web de maneira rápida e fácil. Projetado em linguagem OO e implementada na linguagem de programação PHP, adotando uma abordagem baseada em padrões para o desenvolv
+Novemax Framework é um software de fonte aberta desenvolvido pela Novemax Soluções em TI que ajuda os desenvolvedores a construirem aplicações web de maneira rápida e fácil. Projetado em linguagem OO e implementada na linguagem de programação PHP, adotando uma abordagem baseada em padrões para o desenvolv
 imento de software.
 
 Sobre o Novemax Framework
