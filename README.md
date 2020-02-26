@@ -20,6 +20,7 @@ Principais classes do framework:
 1) Action é uma classe, que estende a classe AbstractNovemaxAction, responsável pela validação de entrada, acessando as informações e determinando as informações da página que irão para o controlador.
 2) Business Object é uma classe, que estende a classe NovemaxBasicBO, realiza o papel de negócio da aplicação, recebe as informações transmitidas pela Action e repassam para a Data Access Object.
 3) Data Acess Object é uma classe, que estende a classe NovemaxBasicDAO, realiza as operações com os bancos de dados.
+
 Arquivos de configuração:
 1) novemax-config: arquivo de configuração onde são incluídas as classes do projeto, do framework, como outras informações de configurações gerais que podem ser utilizadas no projeto.
 2) novemax-actions: arquivo que identifica uma operação requisitada pelo usuário e encaminha para a classe Action correspondente executar as operações.
